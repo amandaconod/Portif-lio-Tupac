@@ -1,0 +1,17 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: black;
+    
+}
+
+a {
+    color: #9b0015; text-decoration: none;
+}
+
+a:hover { text-decoration: underline; }
+
+h1, h2, h3 { color: #800505; margin-bottom: 15px; }
+p{ color:whitesmoke}
+
+
+
